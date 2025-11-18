@@ -63,40 +63,11 @@ if __name__=="__main__":
 
     # Ingest new data into the index
     # ingest_data - assign to a json file that includes a file
+    
+    # RUN ingest_guest.py HERE. Right now, this needs to be done manually. 
 
     with open("ingest_data.json") as f:
         ingest_data = json.load(f)
 
-    # ingest_data = {
-    #     "ingest_type": "GMetaList",
-    #     "ingest_data": {
-    #         "gmeta": [
-    #             {
-    #                 "subject": "Subject1",
-    #                 "visible_to": ["public"],
-    #                 "content": {
-    #                     "name": "Subject 1",
-    #                     "tags": [
-    #                         "1"
-    #                     ],
-    #                     "group": "group1" 
-    #                     }
-    #             },
-    #             {
-    #                 "subject": "Subject2",
-    #                 "visible_to": ["public"],
-    #                 "content": {
-    #                     "name": "Subject 2",
-    #                     "tags": [
-    #                         "2"
-    #                     ],
-    #                     "group": "group2" 
-    #                     }
-    #             },
-
-    #         ]
-    #     },
-    # }
-    
     # injest data
     sc.ingest(index_id, ingest_data)
