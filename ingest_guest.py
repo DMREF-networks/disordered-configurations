@@ -73,6 +73,7 @@ def make_tags(row):
     but omit any entries that normalize to None or empty.
     """
     fields = [
+        ("Name", row.get("PC Name")),
         ("# of Nodes", row.get("# of Nodes")),
         ("Dim", row.get("Dim")),
         ("Generator", row.get("Generator")),
