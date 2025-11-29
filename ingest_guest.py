@@ -67,6 +67,9 @@ def normalize_val(x):
     return s
 
 def make_tags(row):
+    # Build download URL
+    url = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/" + row.get("PC Name") + ".zip"
+
     """
     Build a cleaned tags list:
       [# of Nodes, Dim, Generator, Adjacency Method, Perturbation Method, Start-End]
@@ -79,6 +82,7 @@ def make_tags(row):
         ("Generator", row.get("Generator")),
         ("Adjacency Method", row.get("Adjacency Method")),
         ("Perturbation Method", row.get("Perturbation Method")),
+        ("Download Link", url)
     ]
 
     tags = []
