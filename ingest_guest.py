@@ -1,9 +1,15 @@
+"""
+Ingests data from the guest collection. This needs to be run everytime the guest collection is updated. 
+The output from this script goes to ingest_data.json. 
+"""
+
 import requests
 import pandas as pd
 from io import BytesIO
 import json
 import math
 
+# GLOBUS location to ingest from
 URL = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/ConfigLib_20250922.xlsx"
 
 # download
@@ -67,8 +73,6 @@ def normalize_val(x):
     return s
 
 def make_tags(row):
-    # Build download URL
-    url = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/" + row.get("PC Name") + ".zip"
 
     """
     Build a cleaned tags list:
@@ -82,7 +86,6 @@ def make_tags(row):
         ("Generator", row.get("Generator")),
         ("Adjacency Method", row.get("Adjacency Method")),
         ("Perturbation Method", row.get("Perturbation Method")),
-        ("Download Link", url)
     ]
 
     tags = []
@@ -116,6 +119,10 @@ for _, raw_row in df.iterrows():
     notes = normalize_val(raw_row.get("Notes"))
     group = normalize_val(raw_row.get("File Name Prefix"))
 
+    # Build download URL
+    download_url = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/" + raw_row.get("PC Name") + ".zip"
+
+    # Image needs to be added to this later
     entry = {
         "subject": pc_name,
         "visible_to": ["public"],
@@ -126,6 +133,7 @@ for _, raw_row in df.iterrows():
             "name": pc_name,
             "tags": make_tags(raw_row),
             "group": group,
+            "website": download_url
         }
     }
     gmeta_list.append(entry)
