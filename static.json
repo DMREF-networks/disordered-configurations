@@ -29,7 +29,7 @@
               "property": "entries[0].content.region"
             },
             {
-              "label": "Website",
+              "label": "Download Link",
               "property": "entries[0].content.website",
               "type": "link"
             }
