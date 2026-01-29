@@ -25,10 +25,6 @@
               "property": "entries[0].content.tags"
             },
             {
-              "label": "Region",
-              "property": "entries[0].content.region"
-            },
-            {
               "label": "Download Link",
               "property": "entries[0].content.website",
               "type": "link"
@@ -43,12 +39,6 @@
             {
               "name": "Tags",
               "field_name": "tags",
-              "type": "terms",
-              "size": 10
-            },
-            {
-              "name": "Region",
-              "field_name": "region",
               "type": "terms",
               "size": 10
             }
