@@ -32,7 +32,7 @@ authorizer = globus_sdk.ClientCredentialsAuthorizer(
 sc = globus_sdk.SearchClient(authorizer=authorizer)
 
 # Put index to delete in this variable
-INDEX_ID = "024ff433-3dd2-496a-85b6-47f4b32e4d42"
+INDEX_ID = "28116e5e-d9f1-4885-a28f-3addedb47f62"
 
 print("Deleting index:", INDEX_ID)
 sc.delete_index(INDEX_ID)

@@ -65,15 +65,13 @@ if __name__=="__main__":
         index_id = get_index(args.index)
         sc.get_index(index_id)
 
-        with open("ingest_data.json") as f:
-            ingest_data = json.load(f)
-        
-        # injest data
-        sc.ingest(index_id, ingest_data)
-
     except: # if there's no index, create a new one
         index_id = create_index(sc,"RFS Test Search Index", "Just like the name says")
         save_index(args.index, index_id)
+        with open("ingest_data.json") as f:
+            ingest_data = json.load(f)
+        # injest data
+        sc.ingest(index_id, ingest_data)
 
     # Ingest new data into the index
     # ingest_data - assign to a json file that includes a file
