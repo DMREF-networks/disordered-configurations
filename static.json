@@ -28,13 +28,18 @@
               "label": "Download Link",
               "property": "entries[0].content.website",
               "type": "link"
+            },
+            {
+              "label": "Image",
+              "property": "entries[0].content.website",
+              "type": "image"
             }
           ]
         }
       },
       "globus": {
         "search": {
-          "index": "024ff433-3dd2-496a-85b6-47f4b32e4d42",
+          "index": "28116e5e-d9f1-4885-a28f-3addedb47f62",
           "facets": [
             {
               "name": "Tags",

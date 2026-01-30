@@ -22,7 +22,8 @@
             "0-100"
           ],
           "group": "PC10001 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -45,7 +46,8 @@
             "2-5"
           ],
           "group": "PC20002 _1000_2D_RandU_Voronoi_GaussNoise",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -68,7 +70,8 @@
             "0-100"
           ],
           "group": "PC10001a _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001a.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001a.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -91,7 +94,8 @@
             "0-100"
           ],
           "group": "PC10001b _225_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001b.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10001b.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -114,7 +118,8 @@
             "0-100"
           ],
           "group": "PC10002 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -137,7 +142,8 @@
             "0-100"
           ],
           "group": "PC10003 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -160,7 +166,8 @@
             "0-100"
           ],
           "group": "PC10004 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -183,7 +190,8 @@
             "0-100"
           ],
           "group": "PC10005 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -206,7 +214,8 @@
             "0-100"
           ],
           "group": "PC10006 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -229,7 +238,8 @@
             "0-100"
           ],
           "group": "PC10007 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -252,7 +262,8 @@
             "0-100"
           ],
           "group": "PC10008 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -275,7 +286,8 @@
             "0-100"
           ],
           "group": "PC10009 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -298,7 +310,8 @@
             "0-100"
           ],
           "group": "PC10010 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10010.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10010.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -321,7 +334,8 @@
             "0-100"
           ],
           "group": "PC10011 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10011.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10011.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -344,7 +358,8 @@
             "0-100"
           ],
           "group": "PC10012 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10012.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10012.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -367,7 +382,8 @@
             "0-100"
           ],
           "group": "PC10013 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10013.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10013.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -390,7 +406,8 @@
             "0-100"
           ],
           "group": "PC10014 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10014.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10014.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -413,7 +430,8 @@
             "0-100"
           ],
           "group": "PC10015 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10015.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10015.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -436,7 +454,8 @@
             "0-100"
           ],
           "group": "PC10016 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10016.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10016.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -459,7 +478,8 @@
             "0-100"
           ],
           "group": "PC10017 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10017.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10017.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -482,7 +502,8 @@
             "0-100"
           ],
           "group": "PC10018 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10018.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10018.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -505,7 +526,8 @@
             "0-100"
           ],
           "group": "PC10019 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10019.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10019.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -528,7 +550,8 @@
             "0-100"
           ],
           "group": "PC10020 _100_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10020.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10020.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -551,7 +574,8 @@
             "0-100"
           ],
           "group": "PC10021 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10021.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10021.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -574,7 +598,8 @@
             "0-100"
           ],
           "group": "PC10022 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10022.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10022.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -597,7 +622,8 @@
             "0-100"
           ],
           "group": "PC10023 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10023.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10023.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -620,7 +646,8 @@
             "0-100"
           ],
           "group": "PC10024 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10024.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10024.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -643,7 +670,8 @@
             "0-100"
           ],
           "group": "PC10025 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10025.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10025.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -666,7 +694,8 @@
             "0-100"
           ],
           "group": "PC10026 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10026.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10026.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -689,7 +718,8 @@
             "0-100"
           ],
           "group": "PC10027 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10027.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10027.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -712,7 +742,8 @@
             "0-100"
           ],
           "group": "PC10028 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10028.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10028.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -735,7 +766,8 @@
             "0-100"
           ],
           "group": "PC10029 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10029.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10029.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -758,7 +790,8 @@
             "0-100"
           ],
           "group": "PC10030 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10030.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10030.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -781,7 +814,8 @@
             "0-100"
           ],
           "group": "PC10031 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10031.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10031.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -804,7 +838,8 @@
             "0-100"
           ],
           "group": "PC10032 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10032.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10032.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -827,7 +862,8 @@
             "0-100"
           ],
           "group": "PC10033 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10033.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10033.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -850,7 +886,8 @@
             "0-100"
           ],
           "group": "PC10034 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10034.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10034.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -873,7 +910,8 @@
             "0-100"
           ],
           "group": "PC10035 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10035.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10035.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -896,7 +934,8 @@
             "0-100"
           ],
           "group": "PC10036 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10036.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10036.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -919,7 +958,8 @@
             "0-100"
           ],
           "group": "PC10037 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10037.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10037.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -942,7 +982,8 @@
             "0-100"
           ],
           "group": "PC10038 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10038.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10038.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -965,7 +1006,8 @@
             "0-100"
           ],
           "group": "PC10039 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10039.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10039.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -988,7 +1030,8 @@
             "0-100"
           ],
           "group": "PC10040 _200_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10040.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10040.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1011,7 +1054,8 @@
             "0-100"
           ],
           "group": "PC10041 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10041.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10041.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1034,7 +1078,8 @@
             "0-100"
           ],
           "group": "PC10042 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10042.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10042.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1057,7 +1102,8 @@
             "0-100"
           ],
           "group": "PC10043 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10043.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10043.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1080,7 +1126,8 @@
             "0-100"
           ],
           "group": "PC10044 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10044.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10044.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1103,7 +1150,8 @@
             "0-100"
           ],
           "group": "PC10045 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10045.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10045.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1126,7 +1174,8 @@
             "0-100"
           ],
           "group": "PC10046 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10046.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10046.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1149,7 +1198,8 @@
             "0-100"
           ],
           "group": "PC10047 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10047.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10047.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1172,7 +1222,8 @@
             "0-100"
           ],
           "group": "PC10048 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10048.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10048.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1195,7 +1246,8 @@
             "0-100"
           ],
           "group": "PC10049 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10049.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10049.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1218,7 +1270,8 @@
             "0-100"
           ],
           "group": "PC10050 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10050.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10050.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1241,7 +1294,8 @@
             "0-100"
           ],
           "group": "PC10051 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10051.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10051.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1264,7 +1318,8 @@
             "0-100"
           ],
           "group": "PC10052 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10052.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10052.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1287,7 +1342,8 @@
             "0-100"
           ],
           "group": "PC10053 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10053.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10053.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1310,7 +1366,8 @@
             "0-100"
           ],
           "group": "PC10054 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10054.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10054.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1333,7 +1390,8 @@
             "0-100"
           ],
           "group": "PC10055 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10055.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10055.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1356,7 +1414,8 @@
             "0-100"
           ],
           "group": "PC10056 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10056.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10056.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1379,7 +1438,8 @@
             "0-100"
           ],
           "group": "PC10057 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10057.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10057.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1402,7 +1462,8 @@
             "0-100"
           ],
           "group": "PC10058 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10058.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10058.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1425,7 +1486,8 @@
             "0-100"
           ],
           "group": "PC10059 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10059.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10059.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1448,7 +1510,8 @@
             "0-100"
           ],
           "group": "PC10060 _300_2D_RandU_Delauney-box_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10060.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10060.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1471,7 +1534,8 @@
             "0-100"
           ],
           "group": "PC10021v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10021v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10021v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1494,7 +1558,8 @@
             "0-100"
           ],
           "group": "PC10022v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10022v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10022v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1517,7 +1582,8 @@
             "0-100"
           ],
           "group": "PC10023v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10023v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10023v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1540,7 +1606,8 @@
             "0-100"
           ],
           "group": "PC10024v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10024v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10024v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1563,7 +1630,8 @@
             "0-100"
           ],
           "group": "PC10025v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10025v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10025v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1586,7 +1654,8 @@
             "0-100"
           ],
           "group": "PC10026v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10026v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10026v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1609,7 +1678,8 @@
             "0-100"
           ],
           "group": "PC10027v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10027v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10027v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1632,7 +1702,8 @@
             "0-100"
           ],
           "group": "PC10028v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10028v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10028v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1655,7 +1726,8 @@
             "0-100"
           ],
           "group": "PC10029v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10029v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10029v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1678,7 +1750,8 @@
             "0-100"
           ],
           "group": "PC10030v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10030v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10030v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1701,7 +1774,8 @@
             "0-100"
           ],
           "group": "PC10031v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10031v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10031v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1724,7 +1798,8 @@
             "0-100"
           ],
           "group": "PC10032v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10032v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10032v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1747,7 +1822,8 @@
             "0-100"
           ],
           "group": "PC10033v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10033v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10033v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1770,7 +1846,8 @@
             "0-100"
           ],
           "group": "PC10034v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10034v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10034v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1793,7 +1870,8 @@
             "0-100"
           ],
           "group": "PC10035v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10035v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10035v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1816,7 +1894,8 @@
             "0-100"
           ],
           "group": "PC10036v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10036v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10036v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1839,7 +1918,8 @@
             "0-100"
           ],
           "group": "PC10037v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10037v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10037v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1862,7 +1942,8 @@
             "0-100"
           ],
           "group": "PC10038v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10038v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10038v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1885,7 +1966,8 @@
             "0-100"
           ],
           "group": "PC10039v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10039v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10039v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1908,7 +1990,8 @@
             "0-100"
           ],
           "group": "PC10040v _200_2D_RandU_Voronoi_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10040v.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10040v.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1931,7 +2014,8 @@
             "0-999"
           ],
           "group": "PC30000 _100_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1954,7 +2038,8 @@
             "0-999"
           ],
           "group": "PC30001 _100_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -1977,7 +2062,8 @@
             "0-999"
           ],
           "group": "PC31000 _1000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2000,7 +2086,8 @@
             "0-999"
           ],
           "group": "PC31001 _1000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2023,7 +2110,8 @@
             "0-999"
           ],
           "group": "PC32000 _10000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2046,7 +2134,8 @@
             "0-999"
           ],
           "group": "PC32001 _10000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2069,7 +2158,8 @@
             "0-999"
           ],
           "group": "PC33000 _100000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2092,7 +2182,8 @@
             "0-999"
           ],
           "group": "PC33001 _100000_2D_RandU_Delaunay_Lloyds-2",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2115,7 +2206,8 @@
             "0-999"
           ],
           "group": "PC30000s _100_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30000s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30000s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2138,7 +2230,8 @@
             "0-999"
           ],
           "group": "PC30001s _100_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30001s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30001s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2161,7 +2254,8 @@
             "0-999"
           ],
           "group": "PC31000s _1000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31000s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31000s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2184,7 +2278,8 @@
             "0-999"
           ],
           "group": "PC31001s _1000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31001s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31001s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2207,7 +2302,8 @@
             "0-999"
           ],
           "group": "PC32000s _10000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32000s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32000s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2230,7 +2326,8 @@
             "0-999"
           ],
           "group": "PC32001s _10000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32001s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32001s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2253,7 +2350,8 @@
             "0-999"
           ],
           "group": "PC33000s _100000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33000s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33000s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2276,7 +2374,8 @@
             "0-999"
           ],
           "group": "PC33001s _100000_2D_RandU_Delaunay_Lloyds-spherical",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33001s.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC33001s.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2299,7 +2398,8 @@
             "0-100"
           ],
           "group": "PC00000 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2322,7 +2422,8 @@
             "0-100"
           ],
           "group": "PC00001 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2345,7 +2446,8 @@
             "0-100"
           ],
           "group": "PC00002 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2368,7 +2470,8 @@
             "0-100"
           ],
           "group": "PC00003 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2391,7 +2494,8 @@
             "0-100"
           ],
           "group": "PC00004 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2414,7 +2518,8 @@
             "0-100"
           ],
           "group": "PC00005 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2437,7 +2542,8 @@
             "0-100"
           ],
           "group": "PC00006 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2460,7 +2566,8 @@
             "0-100"
           ],
           "group": "PC00007 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2483,7 +2590,8 @@
             "0-100"
           ],
           "group": "PC00008 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2506,7 +2614,8 @@
             "0-100"
           ],
           "group": "PC00009 _100_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2529,7 +2638,8 @@
             "0-100"
           ],
           "group": "PC01000 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2552,7 +2662,8 @@
             "0-100"
           ],
           "group": "PC01001 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2575,7 +2686,8 @@
             "0-100"
           ],
           "group": "PC01002 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2598,7 +2710,8 @@
             "0-100"
           ],
           "group": "PC01003 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2621,7 +2734,8 @@
             "0-100"
           ],
           "group": "PC01004 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2644,7 +2758,8 @@
             "0-100"
           ],
           "group": "PC01005 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2667,7 +2782,8 @@
             "0-100"
           ],
           "group": "PC01006 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2690,7 +2806,8 @@
             "0-100"
           ],
           "group": "PC01007 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2713,7 +2830,8 @@
             "0-100"
           ],
           "group": "PC01008 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2736,7 +2854,8 @@
             "0-100"
           ],
           "group": "PC01009 _200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2759,7 +2878,8 @@
             "0-100"
           ],
           "group": "PC02000 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2782,7 +2902,8 @@
             "0-100"
           ],
           "group": "PC02001 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2805,7 +2926,8 @@
             "0-100"
           ],
           "group": "PC02002 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2828,7 +2950,8 @@
             "0-100"
           ],
           "group": "PC02003 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2851,7 +2974,8 @@
             "0-100"
           ],
           "group": "PC02004 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2874,7 +2998,8 @@
             "0-100"
           ],
           "group": "PC02005 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2897,7 +3022,8 @@
             "0-100"
           ],
           "group": "PC02006 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2920,7 +3046,8 @@
             "0-100"
           ],
           "group": "PC02007 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2943,7 +3070,8 @@
             "0-100"
           ],
           "group": "PC02008 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2966,7 +3094,8 @@
             "0-100"
           ],
           "group": "PC02009 _400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -2989,7 +3118,8 @@
             "0-100"
           ],
           "group": "PC03000 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3012,7 +3142,8 @@
             "0-100"
           ],
           "group": "PC03001 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3035,7 +3166,8 @@
             "0-100"
           ],
           "group": "PC03002 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3058,7 +3190,8 @@
             "0-100"
           ],
           "group": "PC03003 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3081,7 +3214,8 @@
             "0-100"
           ],
           "group": "PC03004 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3104,7 +3238,8 @@
             "0-100"
           ],
           "group": "PC03005 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3127,7 +3262,8 @@
             "0-100"
           ],
           "group": "PC03006 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3150,7 +3286,8 @@
             "0-100"
           ],
           "group": "PC03007 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3173,7 +3310,8 @@
             "0-100"
           ],
           "group": "PC03008 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3196,7 +3334,8 @@
             "0-100"
           ],
           "group": "PC03009 _800_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3219,7 +3358,8 @@
             "0-100"
           ],
           "group": "PC04000 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3242,7 +3382,8 @@
             "0-100"
           ],
           "group": "PC04001 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3265,7 +3406,8 @@
             "0-100"
           ],
           "group": "PC04002 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3288,7 +3430,8 @@
             "0-100"
           ],
           "group": "PC04003 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3311,7 +3454,8 @@
             "0-100"
           ],
           "group": "PC04004 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3334,7 +3478,8 @@
             "0-100"
           ],
           "group": "PC04005 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3357,7 +3502,8 @@
             "0-100"
           ],
           "group": "PC04006 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3380,7 +3526,8 @@
             "0-100"
           ],
           "group": "PC04007 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3403,7 +3550,8 @@
             "0-100"
           ],
           "group": "PC04008 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3426,7 +3574,8 @@
             "0-100"
           ],
           "group": "PC04009 _1600_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC04009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3449,7 +3598,8 @@
             "0-100"
           ],
           "group": "PC05000 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3472,7 +3622,8 @@
             "0-100"
           ],
           "group": "PC05001 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3495,7 +3646,8 @@
             "0-100"
           ],
           "group": "PC05002 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3518,7 +3670,8 @@
             "0-100"
           ],
           "group": "PC05003 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3541,7 +3694,8 @@
             "0-100"
           ],
           "group": "PC05004 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3564,7 +3718,8 @@
             "0-100"
           ],
           "group": "PC05005 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3587,7 +3742,8 @@
             "0-100"
           ],
           "group": "PC05006 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3610,7 +3766,8 @@
             "0-100"
           ],
           "group": "PC05007 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3633,7 +3790,8 @@
             "0-100"
           ],
           "group": "PC05008 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3656,7 +3814,8 @@
             "0-100"
           ],
           "group": "PC05009 _3200_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC05009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3679,7 +3838,8 @@
             "0-100"
           ],
           "group": "PC06000 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3702,7 +3862,8 @@
             "0-100"
           ],
           "group": "PC06001 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3725,7 +3886,8 @@
             "0-100"
           ],
           "group": "PC06002 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3748,7 +3910,8 @@
             "0-100"
           ],
           "group": "PC06003 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3771,7 +3934,8 @@
             "0-100"
           ],
           "group": "PC06004 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3794,7 +3958,8 @@
             "0-100"
           ],
           "group": "PC06005 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3817,7 +3982,8 @@
             "0-100"
           ],
           "group": "PC06006 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3840,7 +4006,8 @@
             "0-100"
           ],
           "group": "PC06007 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3863,7 +4030,8 @@
             "0-100"
           ],
           "group": "PC06008 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3886,7 +4054,8 @@
             "0-100"
           ],
           "group": "PC06009 _6400_2D-box_RandU_Delaunay_Lloyds",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC06009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3909,7 +4078,8 @@
             "0-100"
           ],
           "group": "PC00c000 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3932,7 +4102,8 @@
             "0-100"
           ],
           "group": "PC00c001 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3955,7 +4126,8 @@
             "0-100"
           ],
           "group": "PC00c002 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -3978,7 +4150,8 @@
             "0-100"
           ],
           "group": "PC00c003 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4001,7 +4174,8 @@
             "0-100"
           ],
           "group": "PC00c004 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4024,7 +4198,8 @@
             "0-100"
           ],
           "group": "PC00c005 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4047,7 +4222,8 @@
             "0-100"
           ],
           "group": "PC00c006 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4070,7 +4246,8 @@
             "0-100"
           ],
           "group": "PC00c007 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4093,7 +4270,8 @@
             "0-100"
           ],
           "group": "PC00c008 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4116,7 +4294,8 @@
             "0-100"
           ],
           "group": "PC00c009 _64_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00c009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4139,7 +4318,8 @@
             "0-100"
           ],
           "group": "PC01c000 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4162,7 +4342,8 @@
             "0-100"
           ],
           "group": "PC01c001 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4185,7 +4366,8 @@
             "0-100"
           ],
           "group": "PC01c002 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4208,7 +4390,8 @@
             "0-100"
           ],
           "group": "PC01c003 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4231,7 +4414,8 @@
             "0-100"
           ],
           "group": "PC01c004 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4254,7 +4438,8 @@
             "0-100"
           ],
           "group": "PC01c005 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4277,7 +4462,8 @@
             "0-100"
           ],
           "group": "PC01c006 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4300,7 +4486,8 @@
             "0-100"
           ],
           "group": "PC01c007 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4323,7 +4510,8 @@
             "0-100"
           ],
           "group": "PC01c008 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4346,7 +4534,8 @@
             "0-100"
           ],
           "group": "PC01c009 _125_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01c009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4369,7 +4558,8 @@
             "0-100"
           ],
           "group": "PC02c000 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4392,7 +4582,8 @@
             "0-100"
           ],
           "group": "PC02c001 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4415,7 +4606,8 @@
             "0-100"
           ],
           "group": "PC02c002 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4438,7 +4630,8 @@
             "0-100"
           ],
           "group": "PC02c003 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4461,7 +4654,8 @@
             "0-100"
           ],
           "group": "PC02c004 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4484,7 +4678,8 @@
             "0-100"
           ],
           "group": "PC02c005 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4507,7 +4702,8 @@
             "0-100"
           ],
           "group": "PC02c006 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4530,7 +4726,8 @@
             "0-100"
           ],
           "group": "PC02c007 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4553,7 +4750,8 @@
             "0-100"
           ],
           "group": "PC02c008 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4576,7 +4774,8 @@
             "0-100"
           ],
           "group": "PC02c009 _216_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02c009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4599,7 +4798,8 @@
             "0-100"
           ],
           "group": "PC03c000 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4622,7 +4822,8 @@
             "0-100"
           ],
           "group": "PC03c001 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4645,7 +4846,8 @@
             "0-100"
           ],
           "group": "PC03c002 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4668,7 +4870,8 @@
             "0-100"
           ],
           "group": "PC03c003 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4691,7 +4894,8 @@
             "0-100"
           ],
           "group": "PC03c004 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4714,7 +4918,8 @@
             "0-100"
           ],
           "group": "PC03c005 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4737,7 +4942,8 @@
             "0-100"
           ],
           "group": "PC03c006 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4760,7 +4966,8 @@
             "0-100"
           ],
           "group": "PC03c007 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4783,7 +4990,8 @@
             "0-100"
           ],
           "group": "PC03c008 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4806,7 +5014,8 @@
             "0-100"
           ],
           "group": "PC03c009 _343_3D-box_Cubic-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC03c009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4829,7 +5038,8 @@
             "0-100"
           ],
           "group": "PC00t000 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4852,7 +5062,8 @@
             "0-100"
           ],
           "group": "PC00t001 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4875,7 +5086,8 @@
             "0-100"
           ],
           "group": "PC00t002 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4898,7 +5110,8 @@
             "0-100"
           ],
           "group": "PC00t003 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4921,7 +5134,8 @@
             "0-100"
           ],
           "group": "PC00t004 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4944,7 +5158,8 @@
             "0-100"
           ],
           "group": "PC00t005 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4967,7 +5182,8 @@
             "0-100"
           ],
           "group": "PC00t006 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -4990,7 +5206,8 @@
             "0-100"
           ],
           "group": "PC00t007 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5013,7 +5230,8 @@
             "0-100"
           ],
           "group": "PC00t008 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5036,7 +5254,8 @@
             "0-100"
           ],
           "group": "PC00t009 _108_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC00t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5059,7 +5278,8 @@
             "0-100"
           ],
           "group": "PC01t000 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5082,7 +5302,8 @@
             "0-100"
           ],
           "group": "PC01t001 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5105,7 +5326,8 @@
             "0-100"
           ],
           "group": "PC01t002 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5128,7 +5350,8 @@
             "0-100"
           ],
           "group": "PC01t003 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5151,7 +5374,8 @@
             "0-100"
           ],
           "group": "PC01t004 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5174,7 +5398,8 @@
             "0-100"
           ],
           "group": "PC01t005 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5197,7 +5422,8 @@
             "0-100"
           ],
           "group": "PC01t006 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5220,7 +5446,8 @@
             "0-100"
           ],
           "group": "PC01t007 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5243,7 +5470,8 @@
             "0-100"
           ],
           "group": "PC01t008 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5266,7 +5494,8 @@
             "0-100"
           ],
           "group": "PC01t009 _231_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC01t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5289,7 +5518,8 @@
             "0-100"
           ],
           "group": "PC02t000 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5312,7 +5542,8 @@
             "0-100"
           ],
           "group": "PC02t001 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5335,7 +5566,8 @@
             "0-100"
           ],
           "group": "PC02t002 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5358,7 +5590,8 @@
             "0-100"
           ],
           "group": "PC02t003 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5381,7 +5614,8 @@
             "0-100"
           ],
           "group": "PC02t004 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5404,7 +5638,8 @@
             "0-100"
           ],
           "group": "PC02t005 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5427,7 +5662,8 @@
             "0-100"
           ],
           "group": "PC02t006 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5450,7 +5686,8 @@
             "0-100"
           ],
           "group": "PC02t007 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5473,7 +5710,8 @@
             "0-100"
           ],
           "group": "PC02t008 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5496,7 +5734,8 @@
             "0-100"
           ],
           "group": "PC02t009 _365_3D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC02t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5519,7 +5758,8 @@
             "0-100"
           ],
           "group": "PC10t000 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5542,7 +5782,8 @@
             "0-100"
           ],
           "group": "PC10t001 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5565,7 +5806,8 @@
             "0-100"
           ],
           "group": "PC10t002 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5588,7 +5830,8 @@
             "0-100"
           ],
           "group": "PC10t003 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5611,7 +5854,8 @@
             "0-100"
           ],
           "group": "PC10t004 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5634,7 +5878,8 @@
             "0-100"
           ],
           "group": "PC10t005 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5657,7 +5902,8 @@
             "0-100"
           ],
           "group": "PC10t006 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5680,7 +5926,8 @@
             "0-100"
           ],
           "group": "PC10t007 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5703,7 +5950,8 @@
             "0-100"
           ],
           "group": "PC10t008 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5726,7 +5974,8 @@
             "0-100"
           ],
           "group": "PC10t009 _105_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC10t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5749,7 +5998,8 @@
             "0-100"
           ],
           "group": "PC11t000 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5772,7 +6022,8 @@
             "0-100"
           ],
           "group": "PC11t001 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5795,7 +6046,8 @@
             "0-100"
           ],
           "group": "PC11t002 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5818,7 +6070,8 @@
             "0-100"
           ],
           "group": "PC11t003 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5841,7 +6094,8 @@
             "0-100"
           ],
           "group": "PC11t004 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5864,7 +6118,8 @@
             "0-100"
           ],
           "group": "PC11t005 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5887,7 +6142,8 @@
             "0-100"
           ],
           "group": "PC11t006 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5910,7 +6166,8 @@
             "0-100"
           ],
           "group": "PC11t007 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5933,7 +6190,8 @@
             "0-100"
           ],
           "group": "PC11t008 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5956,7 +6214,8 @@
             "0-100"
           ],
           "group": "PC11t009 _216_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC11t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -5979,7 +6238,8 @@
             "0-100"
           ],
           "group": "PC12t000 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6002,7 +6262,8 @@
             "0-100"
           ],
           "group": "PC12t001 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6025,7 +6286,8 @@
             "0-100"
           ],
           "group": "PC12t002 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6048,7 +6310,8 @@
             "0-100"
           ],
           "group": "PC12t003 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6071,7 +6334,8 @@
             "0-100"
           ],
           "group": "PC12t004 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6094,7 +6358,8 @@
             "0-100"
           ],
           "group": "PC12t005 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6117,7 +6382,8 @@
             "0-100"
           ],
           "group": "PC12t006 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6140,7 +6406,8 @@
             "0-100"
           ],
           "group": "PC12t007 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6163,7 +6430,8 @@
             "0-100"
           ],
           "group": "PC12t008 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6186,7 +6454,8 @@
             "0-100"
           ],
           "group": "PC12t009 _389_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC12t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6209,7 +6478,8 @@
             "0-100"
           ],
           "group": "False",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6232,7 +6502,8 @@
             "0-100"
           ],
           "group": "PC20t001 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6255,7 +6526,8 @@
             "0-100"
           ],
           "group": "PC20t002 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6278,7 +6550,8 @@
             "0-100"
           ],
           "group": "PC20t003 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6301,7 +6574,8 @@
             "0-100"
           ],
           "group": "PC20t004 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6324,7 +6598,8 @@
             "0-100"
           ],
           "group": "PC20t005 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6347,7 +6622,8 @@
             "0-100"
           ],
           "group": "PC20t006 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6370,7 +6646,8 @@
             "0-100"
           ],
           "group": "PC20t007 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6393,7 +6670,8 @@
             "0-100"
           ],
           "group": "PC20t008 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6416,7 +6694,8 @@
             "0-100"
           ],
           "group": "PC20t009 _108_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC20t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6439,7 +6718,8 @@
             "0-100"
           ],
           "group": "PC21t000 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6462,7 +6742,8 @@
             "0-100"
           ],
           "group": "PC21t001 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6485,7 +6766,8 @@
             "0-100"
           ],
           "group": "PC21t002 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6508,7 +6790,8 @@
             "0-100"
           ],
           "group": "PC21t003 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6531,7 +6814,8 @@
             "0-100"
           ],
           "group": "PC21t004 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6554,7 +6838,8 @@
             "0-100"
           ],
           "group": "PC21t005 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6577,7 +6862,8 @@
             "0-100"
           ],
           "group": "PC21t006 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6600,7 +6886,8 @@
             "0-100"
           ],
           "group": "PC21t007 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6623,7 +6910,8 @@
             "0-100"
           ],
           "group": "PC21t008 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6646,7 +6934,8 @@
             "0-100"
           ],
           "group": "PC21t009 _231_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC21t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6669,7 +6958,8 @@
             "0-100"
           ],
           "group": "PC22t000 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6692,7 +6982,8 @@
             "0-100"
           ],
           "group": "PC22t001 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6715,7 +7006,8 @@
             "0-100"
           ],
           "group": "PC22t002 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6738,7 +7030,8 @@
             "0-100"
           ],
           "group": "PC22t003 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6761,7 +7054,8 @@
             "0-100"
           ],
           "group": "PC22t004 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6784,7 +7078,8 @@
             "0-100"
           ],
           "group": "PC22t005 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6807,7 +7102,8 @@
             "0-100"
           ],
           "group": "PC22t006 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6830,7 +7126,8 @@
             "0-100"
           ],
           "group": "PC22t007 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6853,7 +7150,8 @@
             "0-100"
           ],
           "group": "PC22t008 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6876,7 +7174,8 @@
             "0-100"
           ],
           "group": "PC22t009 _365_3D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC22t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6899,7 +7198,8 @@
             "0-100"
           ],
           "group": "PC30t000 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6922,7 +7222,8 @@
             "0-100"
           ],
           "group": "PC30t001 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6945,7 +7246,8 @@
             "0-100"
           ],
           "group": "PC30t002 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6968,7 +7270,8 @@
             "0-100"
           ],
           "group": "PC30t003 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -6991,7 +7294,8 @@
             "0-100"
           ],
           "group": "PC30t004 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7014,7 +7318,8 @@
             "0-100"
           ],
           "group": "PC30t005 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7037,7 +7342,8 @@
             "0-100"
           ],
           "group": "PC30t006 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7060,7 +7366,8 @@
             "0-100"
           ],
           "group": "PC30t007 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7083,7 +7390,8 @@
             "0-100"
           ],
           "group": "PC30t008 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7106,7 +7414,8 @@
             "0-100"
           ],
           "group": "PC30t009 _105_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC30t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7129,7 +7438,8 @@
             "0-100"
           ],
           "group": "PC31t000 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7152,7 +7462,8 @@
             "0-100"
           ],
           "group": "PC31t001 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7175,7 +7486,8 @@
             "0-100"
           ],
           "group": "PC31t002 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7198,7 +7510,8 @@
             "0-100"
           ],
           "group": "PC31t003 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7221,7 +7534,8 @@
             "0-100"
           ],
           "group": "PC31t004 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7244,7 +7558,8 @@
             "0-100"
           ],
           "group": "PC31t005 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7267,7 +7582,8 @@
             "0-100"
           ],
           "group": "PC31t006 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7290,7 +7606,8 @@
             "0-100"
           ],
           "group": "PC31t007 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7313,7 +7630,8 @@
             "0-100"
           ],
           "group": "PC31t008 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7336,7 +7654,8 @@
             "0-100"
           ],
           "group": "PC31t009 _216_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC31t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7359,7 +7678,8 @@
             "0-100"
           ],
           "group": "PC32t000 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t000.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t000.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7382,7 +7702,8 @@
             "0-100"
           ],
           "group": "PC32t001 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t001.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t001.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7405,7 +7726,8 @@
             "0-100"
           ],
           "group": "PC32t002 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t002.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t002.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7428,7 +7750,8 @@
             "0-100"
           ],
           "group": "PC32t003 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t003.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t003.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7451,7 +7774,8 @@
             "0-100"
           ],
           "group": "PC32t004 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t004.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t004.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7474,7 +7798,8 @@
             "0-100"
           ],
           "group": "PC32t005 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t005.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t005.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7497,7 +7822,8 @@
             "0-100"
           ],
           "group": "PC32t006 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t006.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t006.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7520,7 +7846,8 @@
             "0-100"
           ],
           "group": "PC32t007 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t007.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t007.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7543,7 +7870,8 @@
             "0-100"
           ],
           "group": "PC32t008 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t008.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t008.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7566,7 +7894,8 @@
             "0-100"
           ],
           "group": "PC32t009 _389_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t009.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC32t009.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7589,7 +7918,8 @@
             "0-100"
           ],
           "group": "PC0125c10D_1024_2D-box_RandU_D_Stealthy0.1",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7612,7 +7942,8 @@
             "0-100"
           ],
           "group": "PC0125c10V_1024_2D-box_RandU_V_Stealthy0.1",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10V.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10V.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7635,7 +7966,8 @@
             "0-100"
           ],
           "group": "PC0125c10C_1024_2D-box_RandU_C_Stealthy0.1",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10C.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10C.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7658,7 +7990,8 @@
             "0-100"
           ],
           "group": "PC0125c10G_1024_2D-box_RandU_G_Stealthy0.1",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10G.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c10G.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7681,7 +8014,8 @@
             "0-100"
           ],
           "group": "PC0125c10D_1024_2D-box_RandU_D_Stealthy0.3",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7704,7 +8038,8 @@
             "0-100"
           ],
           "group": "PC0125c10V_1024_2D-box_RandU_V_Stealthy0.3",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30V.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30V.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7727,7 +8062,8 @@
             "0-100"
           ],
           "group": "PC0125c10C_1024_2D-box_RandU_C_Stealthy0.3",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30C.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30C.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7750,7 +8086,8 @@
             "0-100"
           ],
           "group": "PC0125c10G_1024_2D-box_RandU_G_Stealthy0.3",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30G.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c30G.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7773,7 +8110,8 @@
             "0-100"
           ],
           "group": "PC0125c10D_1024_2D-box_RandU_D_Stealthy0.48",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7796,7 +8134,8 @@
             "0-100"
           ],
           "group": "PC0125c10V_1024_2D-box_RandU_V_Stealthy0.48",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48V.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48V.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7819,7 +8158,8 @@
             "0-100"
           ],
           "group": "PC0125c10C_1024_2D-box_RandU_C_Stealthy0.48",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48C.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48C.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7842,7 +8182,8 @@
             "0-100"
           ],
           "group": "PC0125c10G_1024_2D-box_RandU_G_Stealthy0.48",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48G.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0125c48G.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7865,7 +8206,8 @@
             "0-1"
           ],
           "group": "PC0204N6_216_3D-box_Z3_G(V)_URLa",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0204N6.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0204N6.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7888,7 +8230,8 @@
             "0-1"
           ],
           "group": "PC216V3D _216_3D-box_Z3_V_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216V3D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216V3D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7911,7 +8254,8 @@
             "0-1"
           ],
           "group": "PC216C3D _216_3D-box_Z3_C_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216C3D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216C3D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7934,7 +8278,8 @@
             "0-1"
           ],
           "group": "PC216D3D _216_3D-box_Z3_D_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D3D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D3D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7957,7 +8302,8 @@
             "0-1"
           ],
           "group": "PC216G3D _216_3D-box_Z3_G_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G3D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G3D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -7980,7 +8326,8 @@
             "0-100"
           ],
           "group": "PC0312c05D_1024_2D-box_RandU_D_Stealthy0.05",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8003,7 +8350,8 @@
             "0-100"
           ],
           "group": "PC0312c05C_1024_2D-box_RandU_C_Stealthy0.05",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05C.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05C.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8026,7 +8374,8 @@
             "0-100"
           ],
           "group": "PC0312c05V_1024_2D-box_RandU_V_Stealthy0.05",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05V.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05V.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8049,7 +8398,8 @@
             "0-100"
           ],
           "group": "PC0312c05G_1024_2D-box_RandU_G_Stealthy0.05",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05G.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c05G.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8072,7 +8422,8 @@
             "0-100"
           ],
           "group": "PC0312c15D_1024_2D-box_RandU_D_Stealthy0.15",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15D.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15D.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8095,7 +8446,8 @@
             "0-100"
           ],
           "group": "PC0312c15C_1024_2D-box_RandU_C_Stealthy0.15",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15C.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15C.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8118,7 +8470,8 @@
             "0-100"
           ],
           "group": "PC0312c15V_1024_2D-box_RandU_V_Stealthy0.15",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15V.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15V.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8141,7 +8494,8 @@
             "0-100"
           ],
           "group": "PC0312c15G_1024_2D-box_RandU_G_Stealthy0.15",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15G.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC0312c15G.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8163,7 +8517,8 @@
             "0-100"
           ],
           "group": "PC032525PoiD_1024_2D-box_RandU_D_RandU",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiD.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiD.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8185,7 +8540,8 @@
             "0-100"
           ],
           "group": "PC032525PoiV_1024_2D-box_RandU_V_RandU",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiV.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiV.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8207,7 +8563,8 @@
             "0-100"
           ],
           "group": "PC032525PoiC_1024_2D-box_RandU_C_RandU",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiC.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiC.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8229,7 +8586,8 @@
             "0-100"
           ],
           "group": null,
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiG.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC032525PoiG.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8251,7 +8609,8 @@
             "URL"
           ],
           "group": "PC216D3Dcl_216_3D-box_Z3_D_URL_adj_0.75",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D3Dcl.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D3Dcl.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8273,7 +8632,8 @@
             "URL"
           ],
           "group": "PC216V3Dcl_216_3D-box_Z3_V_URL_adj_0.75",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216V3Dcl.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216V3Dcl.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8295,7 +8655,8 @@
             "URL"
           ],
           "group": "PC216C3Dcl_216_3D-box_Z3_C_URL_adj_0.75",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216C3Dcl.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216C3Dcl.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8317,7 +8678,8 @@
             "URL"
           ],
           "group": "PC216G3Dcl_216_3D-box_Z3_G_URL_adj_0.75",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G3Dcl.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G3Dcl.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8339,7 +8701,8 @@
             "URL"
           ],
           "group": "216G2Dt_2D-box_Triangular-lattice_Gabriel_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G2Dt.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216G2Dt.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       },
       {
@@ -8361,7 +8724,8 @@
             "URL"
           ],
           "group": "216D2Dt_2D-box_Triangular-lattice_Delaunay_URL",
-          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D2Dt.zip"
+          "website": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/PC216D2Dt.zip",
+          "image": "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
         }
       }
     ]

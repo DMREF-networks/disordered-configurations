@@ -122,6 +122,9 @@ for _, raw_row in df.iterrows():
     # Build download URL
     download_url = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA-zip/" + raw_row.get("PC Name") + ".zip"
 
+    # SAMPLE IMAGE URL - This is only going to work for the PC216G3D configuration to show at the DMREF meeting
+    sample_image = "https://g-387955.7ce1a.03c0.data.globus.org/ConfigLib/DATA/PC216G3D/images/gabriel1.0.png"
+
     # Image needs to be added to this later
     entry = {
         "subject": pc_name,
@@ -133,7 +136,8 @@ for _, raw_row in df.iterrows():
             "name": pc_name,
             "tags": make_tags(raw_row),
             "group": group,
-            "website": download_url
+            "website": download_url,
+            "image": sample_image
         }
     }
     gmeta_list.append(entry)
