@@ -31,7 +31,7 @@
             },
             {
               "label": "Image",
-              "property": "entries[0].content.website",
+              "property": "entries[0].content.image",
               "type": "image"
             }
           ]
